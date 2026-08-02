@@ -2,6 +2,9 @@
   <img src="logo.png" alt="BRM Logo" width="300" />
   <br/>
   <h1>Aplikasi Web BRM (Business Roadmap Model)</h1>
+  <a href="https://gialangcahyapupdite.github.io/web-landing-page1/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Preview-Lihat_Website-blue?style=for-the-badge" alt="Live Preview">
+  </a>
 </div>
 
 Aplikasi web ini merupakan halaman depan (landing page) untuk pendaftaran dan informasi terkait program **Certified Mentor for Mentor - Business Roadmap Model (Batch 8)**. Halaman ini dirancang secara modern dan responsif untuk menyajikan informasi program, manfaat, testimoni, penawaran harga, dan memfasilitasi calon peserta untuk mendaftar atau bertanya langsung ke tim Customer Service via WhatsApp.
@@ -13,7 +16,11 @@ Agar kode lebih rapi, modular, dan mudah dikelola, file telah dipisahkan menjadi
 - `script.js` — File logika JavaScript yang menangani interaksi pengguna seperti fungsi popup (modal), pembuatan pesan WhatsApp otomatis, sistem menu mobile, dan countdown timer.
 
 ### Uji Coba Langsung (Live Demo)
-Anda dapat berinteraksi penuh dengan website dengan membuka file `index.html` menggunakan peramban web (browser) standar seperti Google Chrome, Safari, atau Microsoft Edge (klik kanan -> *Open with* -> pilih Browser). Anda sudah dapat menguji coba tombol-tombol pendaftaran untuk melihat efek popup dan pergerakan (scroll) navigasinya.
+Anda dapat melihat tampilan asli dan berinteraksi langsung (Live Preview) dari website ini dengan mengakses tautan berikut: 
+
+👉 **[Buka Halaman Live Preview](https://gialangcahyapupdite.github.io/web-landing-page1/)**
+
+Sebagai alternatif ujicoba secara lokal, Anda bisa membuka file `index.html` yang telah diunduh menggunakan peramban web (browser) standar seperti Google Chrome, Safari, atau Microsoft Edge. Cobalah menekan tombol pendaftaran untuk melihat efek popup dan pergerakan navigasinya.
 
 ### Fitur Unggulan!
 - **Popup Formulir Registrasi**: Tersedia tombol pendaftaran berdasarkan tiga pilihan paket (Early Bird, Special Price, Normal Price). Ketika diklik, modal pendaftaran akan otomatis terbuka meminta kelengkapan data *Nama Lengkap, Asal Kota, Profesi, Email Aktif, dan No. Telepon*.
